@@ -11,4 +11,4 @@ Nous avons vu :
 - git log
 - git fetch
 - git pull
-- git pull config
+- git pull config (notamment --ff-only)
