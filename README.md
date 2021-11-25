@@ -8,3 +8,4 @@ Nous avons vu :
 - git add
 - git commit
 - git push
+- git log
