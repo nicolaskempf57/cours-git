@@ -9,3 +9,4 @@ Nous avons vu :
 - git commit
 - git push
 - git log
+- git fetch
