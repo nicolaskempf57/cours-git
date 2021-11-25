@@ -12,3 +12,4 @@ Nous avons vu :
 - git fetch
 - git pull
 - git pull config (notamment --ff-only)
+- git merge CLI
