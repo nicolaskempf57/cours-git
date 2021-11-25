@@ -10,3 +10,4 @@ Nous avons vu :
 - git push
 - git log
 - git fetch
+- git pull
